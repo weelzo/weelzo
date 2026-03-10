@@ -43,7 +43,7 @@ Can your agent detect, diagnose, and recover from errors? 47 tasks across 5 erro
 **3rd Place — Agent Safety Track**
 AgentX-AgentBeats @ UC Berkeley
 
-`python` · [competition →]([https://agentbeats.dev](https://rdi.berkeley.edu/agentx-agentbeats))
+`python` · [competition →](https://rdi.berkeley.edu/agentx-agentbeats)
 
 </td>
 </tr>

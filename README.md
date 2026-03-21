@@ -77,11 +77,6 @@ Compression format reducing token usage by 85–95% for structured data. Built f
 agents       ██████████████████░░   state machines · tool orchestration · error recovery
 ml / nlp     ███████████████░░░░░   deep learning · nlp pipelines · embeddings
 systems      █████████████░░░░░░░   distributed infra · gcp · aws · docker
-algorithms   ███████████░░░░░░░░░   competitive programming (c++) · optimization
 ```
 
----
 
-<p align="center">
-  <samp>open to opportunities · <a href="mailto:wael.sam42@gmail.com">wael.sam42@gmail.com</a></samp>
-</p>

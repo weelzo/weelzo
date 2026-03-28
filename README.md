@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    building infrastructure for agents that <b>know when they're wrong</b>
+    Teaching AI agents to thrive in the real world/b>
   </samp>
 </p>
 

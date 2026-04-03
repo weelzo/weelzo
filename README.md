@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Teaching AI agents to thrive in the real world/b>
+    Teaching AI agents to thrive in the real world
   </samp>
 </p>
 
